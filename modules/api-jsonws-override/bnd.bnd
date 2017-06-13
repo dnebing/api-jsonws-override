@@ -1,0 +1,4 @@
+Bundle-Name: /api/jsonws Permissioning Custom JSP Bag
+Bundle-SymbolicName: com.liferay.portal.jsonwebservice.override.permissioned
+Bundle-Version: 1.0.0
+
